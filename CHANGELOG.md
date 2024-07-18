@@ -29,4 +29,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
     - 2024.2.0.634
 
 ### Modified
-- intel-oneapi-mkl -- default => 2024.2.0.634
+- intel-oneapi
+    - 2024 -- alias to 2024.2.0.634
+- intel-oneapi-mkl
+    - 2024 -- alias to 2024.2.0.634
