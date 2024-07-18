@@ -1,6 +1,6 @@
-# UD IT-RCI Managed Software, «system-name»
+# UD IT-RCI Managed Software, Caviness
 
-All changes to the software maintained by IT RCI on the «system-hostname» HPC cluster will be documented in this file.
+All changes to the software maintained by IT RCI on the caviness.hpc.udel.edu HPC cluster will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).  Primary headings are the nominal date of the changes (with optional time) in the format of `YYYY-MM-DD{ HH:MM}`.  Secondary headings are **Added**, **Modified**, or **Removed**.  All top-level list items are either:
 
@@ -25,6 +25,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
         - HPCKit
         - intelpython3
         - AITools
+- intel-oneapi-mkl
+    - 2024.2.0.634
+
+### Modified
+- intel-oneapi-mkl -- default => 2024.2.0.634
+
 
 ## 2024-07-17
 
