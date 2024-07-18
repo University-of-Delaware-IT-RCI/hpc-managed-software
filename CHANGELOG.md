@@ -8,20 +8,26 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
     - Each sub-list item is `«version-id»{ -- «string»}` with an optional sub-list of informational strings
 - A versioned package id as `«versioned-pkg-id»{ -- «string»}` with an optional sub-list of informational strings
 
-## YYYY-MM-DD HH:MM
+## 2024-07-18
 
 ### Added
+- intel-oneapi
+    - 2024.2.0.634
+        - BaseKit
+        - HPCKit
+        - intelpython3
+    - 2024.2.0.634:no-mpi
+        - BaseKit
+        - HPCKit (no Intel MPI loaded)
+        - intelpython3
+    - 2024.2.0.634:aitools
+        - BaseKit
+        - HPCKit
+        - intelpython3
+        - AITools
 
-- «package-id»
-    - «version-id» -- basic info
-        - another fact
-    - «version-id» -- basic info
+## 2024-07-17
 
-### Modified
-
-- «versioned-pkg-id» -- fixed some bug in env setup
-
-### Removed
-
-- «versioned-pkg-id» -- major bugs in numerical accuracy
+### Added
+- anaconda/2024.02
 
