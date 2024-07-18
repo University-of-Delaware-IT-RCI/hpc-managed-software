@@ -1,6 +1,6 @@
-# UD IT-RCI Managed Software, <system-name>
+# UD IT-RCI Managed Software, «system-name»
 
-All changes to the software maintained by IT RCI on the <system-hostname> HPC cluster will be documented in this file.
+All changes to the software maintained by IT RCI on the «system-hostname» HPC cluster will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).  Primary headings are the nominal date of the changes (with optional time) in the format of `YYYY-MM-DD{ HH:MM}`.  Secondary headings are **Added**, **Modified**, or **Removed**.  All top-level list items are either:
 
