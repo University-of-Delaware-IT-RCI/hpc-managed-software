@@ -8,6 +8,13 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
     - Each sub-list item is `«version-id»{ -- «string»}` with an optional sub-list of informational strings
 - A versioned package id as `«versioned-pkg-id»{ -- «string»}` with an optional sub-list of informational strings
 
+## 2024-10-03
+
+### Added
+- perl
+    - 5.38.2
+        - GCC 12.2, base features
+
 ## 2024-07-18
 
 ### Added
