@@ -8,6 +8,15 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
     - Each sub-list item is `«version-id»{ -- «string»}` with an optional sub-list of informational strings
 - A versioned package id as `«versioned-pkg-id»{ -- «string»}` with an optional sub-list of informational strings
 
+## 2024-10-23
+
+### Added
+- gcc
+    - 14.2.0:openacc
+        - OpenACC
+    - 14.2.0:nvidia,openacc
+        - OpenACC with CUDA offload
+
 ## 2024-07-18
 
 ### Added
