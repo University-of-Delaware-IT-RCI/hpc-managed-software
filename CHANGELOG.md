@@ -11,6 +11,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## 2024-10-24
 
 ### Added
+- apptainer
+    - 1.3.4
 - gcc
     - 14.2.0
     - 14.2.0:amd,openacc
