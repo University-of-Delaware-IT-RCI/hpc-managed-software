@@ -8,6 +8,18 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
     - Each sub-list item is `«version-id»{ -- «string»}` with an optional sub-list of informational strings
 - A versioned package id as `«versioned-pkg-id»{ -- «string»}` with an optional sub-list of informational strings
 
+## 2024-12-08
+
+### Added
+- ucx
+    - unreleased-fbf9232
+        - commit includes patched MR caching routines and GVA (full memory space registration)
+        - added for testing VASP runs failing due to MR cache exhaustion
+- openmpi
+    - 4.1.5:intel-2020,ucx-gva
+        - build using ucx/unreleased-fbf9232
+        - added for testing VASP runs failing due to MR cache exhaustion
+
 ## 2024-11-04
 
 ### Added
