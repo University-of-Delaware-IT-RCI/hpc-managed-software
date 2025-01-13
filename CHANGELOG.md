@@ -8,6 +8,13 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
     - Each sub-list item is `«version-id»{ -- «string»}` with an optional sub-list of informational strings
 - A versioned package id as `«versioned-pkg-id»{ -- «string»}` with an optional sub-list of informational strings
 
+## 2025-01-13
+
+### Added
+- julia
+    - 1.11.2
+    - 1.11.2 → default
+
 ## 2024-11-04
 
 ### Added
