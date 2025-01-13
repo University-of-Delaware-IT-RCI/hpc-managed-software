@@ -13,7 +13,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ### Added
 - julia
     - 1.11.2
-    - 1.11.2 => default
+    - 1.11.2 → default
 
 ## 2024-12-08
 
