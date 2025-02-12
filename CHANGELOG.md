@@ -8,6 +8,17 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
     - Each sub-list item is `«version-id»{ -- «string»}` with an optional sub-list of informational strings
 - A versioned package id as `«versioned-pkg-id»{ -- «string»}` with an optional sub-list of informational strings
 
+## 2025-02-12
+
+### Added
+- comsol
+    - 6.3
+        - Runs in a RockyLinux 9.4 container (native glibc version too old for X11 libs)
+        - Multinode MPI parallelism should not be used
+- matlab
+    - r2024b:container
+        - Runs in a RockyLinux 9.4 container (native glibc version too old for X11 libs)
+
 ## 2025-01-13
 
 ### Added
