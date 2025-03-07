@@ -8,6 +8,13 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
     - Each sub-list item is `«version-id»{ -- «string»}` with an optional sub-list of informational strings
 - A versioned package id as `«versioned-pkg-id»{ -- «string»}` with an optional sub-list of informational strings
 
+## 2025-03-09
+
+### Modified
+- r-studio-server
+    - script fragment added to create database, run, and log directories under temp storage to be mounted in the container for server-generated state files etc.
+    - Singularity options in `SINGULARITY_OPTS` augmented with appropriate bind mounts and container environment values
+
 ## 2025-03-05
 
 ### Added
