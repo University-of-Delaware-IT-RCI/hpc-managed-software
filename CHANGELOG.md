@@ -11,6 +11,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ## 2025-06-27
 
 ### Added
+- libfabric
+    - 2.1.0
 - ucx
     - 1.18.1
     - 1.18.1 → default
