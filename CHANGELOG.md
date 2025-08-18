@@ -8,6 +8,16 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
     - Each sub-list item is `«version-id»{ -- «string»}` with an optional sub-list of informational strings
 - A versioned package id as `«versioned-pkg-id»{ -- «string»}` with an optional sub-list of informational strings
 
+## 2025-08-18
+
+### Added
+- r
+    - 4.5.1
+        - R blas
+        - Atlas
+        - MKL, sequential
+        - MKL, threaded
+
 ## 2025-06-27
 
 ### Added
