@@ -8,6 +8,13 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
     - Each sub-list item is `«version-id»{ -- «string»}` with an optional sub-list of informational strings
 - A versioned package id as `«versioned-pkg-id»{ -- «string»}` with an optional sub-list of informational strings
 
+## 2026-05-29
+
+### Added
+- meson 
+    - 1.3.1
+    - 1.9.2 → default
+
 ## 2026-01-23
 
 ### Added
