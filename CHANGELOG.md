@@ -8,6 +8,15 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
     - Each sub-list item is `«version-id»{ -- «string»}` with an optional sub-list of informational strings
 - A versioned package id as `«versioned-pkg-id»{ -- «string»}` with an optional sub-list of informational strings
 
+## 2026-09-22
+
+### Added
+- apptainer
+    - 1.5.4
+- buildkit
+    - 0.33.0
+    - 0.33.0 → default
+
 ## 2026-01-23
 
 ### Added
